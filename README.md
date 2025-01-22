@@ -5,9 +5,11 @@ Eszköz hardveres adatainak megjelenítése Flutter applikáció segítségével
 - Eszköz
 - Akkumulátor
 - CPU
+- Rendszer
 - Memória
-- Hálózat
 - Szenzorok
+- Hálózat
+
 
 
 Példa:
