@@ -1,7 +1,7 @@
 # Hardverinfo
-Eszköz hardveres adatainak megjelenítése Flutter applikáció segítségével.
+Android alapú eszközök hardveres adatainak megjelenítése Flutter applikáció segítségével.
 
-**Valós idejű, részletes információt szolgáltat az alábbiakról:**
+**Valós idejű (konfigurálható), részletes információt szolgáltat az alábbiakról:**
 - Eszköz
 - Akkumulátor
 - CPU
